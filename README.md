@@ -33,5 +33,6 @@ Key concepts for this workshop include:
    - Objects and Arrays (arrays of planet objects!)
    - Using a for-loop to iterate over an array of objects
    - Accessing key/value pairs of an object
-   - Appending html and CSS to the DOM using document.insertAdjacentHTML
+   - Appending html and CSS to the DOM using `document.insertAdjacentHTML`
+   - Clearing the innerHTML using `element.innerHTML`
    - Using string templating to insert variable data into a string

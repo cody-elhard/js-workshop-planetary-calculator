@@ -17,6 +17,9 @@ function calculate() {
    weight = Number(weight);
    console.log(`Starting calculation with a weight of: ${weight} lbs`);
 
+   // Clear out any planets that are already on the DOM
+   document.getElementById('planets').innerHTML = '';
+
    // Loop over our array of planets, and calculate new gravity for each
    // Append each calculation along with planet name and image to the page!
    for (let planet of planets) {
