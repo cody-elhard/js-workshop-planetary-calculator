@@ -1,6 +1,8 @@
 # Intro to JS: Planetary Gravity Calculator
 This workshop is available on [GitHub](https://github.com/EmergingDigitalAcademy/js-workshop-planetary-calculator/)
 
+The working project is [hosted right here on GitHub Pages](https://emergingdigitalacademy.github.io/js-workshop-planetary-calculator/)!
+
 To get started:
    - Open the URL in your browser
    - Go to the green 'Code' button, click 'Download Zip'
