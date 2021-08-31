@@ -12,9 +12,10 @@ To get started:
 
 ## About This Workshop
 The HTML is already good to go! We're going to build out the
-vanilla javascript in `script.js`. See the `checkpoints/` folder
-to follow along. In addition the final working solution is available
-in the `solution` branch.
+vanilla javascript in `script.js` and the styling in `style.css`.
+
+See the `checkpoints/` folder to follow along. In addition the final 
+working solution is available in the `solution` branch.
 
 There are already images set up in the `images/` folder, and a
 corresponding data array in the `script.js` file.
