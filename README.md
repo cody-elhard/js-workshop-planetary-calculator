@@ -4,6 +4,9 @@ This workshop is available on [GitHub](https://github.com/EmergingDigitalAcademy
 The working project is [hosted right here on GitHub Pages](https://emergingdigitalacademy.github.io/js-workshop-planetary-calculator/)!
 
 Wifi Password is: "Prairie Den" / "DenDawgs"
+
+To download, visit: https://tinyurl.com/eda-js-ws
+
 To get started:
    - Open the URL in your browser
    - Go to the green 'Code' button, click 'Download Zip'
