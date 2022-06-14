@@ -1,7 +1,7 @@
 let planets = [
    {
       name: 'Mercury',
-      image: './images/jupiter.jpg',
+      image: './images/mercury.jpg',
       coef: 3.70
    },
    {
