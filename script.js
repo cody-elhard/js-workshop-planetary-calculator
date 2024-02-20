@@ -33,15 +33,14 @@ function calculate() {
       // the #planets container. We use a 'planet' class which will be
       // controlled in CSS to give it colors, dimensions, alignment, etc.
       // We can also access the image URL by using planet.image
-      document.getElementById('planets').insertAdjacentHTML('beforeend', `
+      document.getElementById('planets').innerHTML += `
          <div class='planet'>
             <h2>${planet.name}</h2>
             <img src='${planet.image}' />
             <p>On ${planet.name} your dog's weight would be <strong>${planetWeight.toFixed(2)}lbs</strong></p>
          </div>
-      `);
+      `;
    }
-   
 }
 
 // When the calculator button is clicked, call the calculate() function
