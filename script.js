@@ -1,11 +1,7 @@
-/*
-                         (Weight on Earth)
-      Jupiter Weight =  -------------------- * (Planet Value)
-                        (Earth Gravity Value)
-*/
-
 function calculate() {
+  let weight = document.getElementById('weight').value;
+  weight = Number(weight);
+  console.log(`Starting calculation with a weight of: ${weight} lbs`);
+  alert(`Starting calculation with a weight of: ${weight} lbs`);
 }
-
-// When the calculator button is clicked, call the calculate() function
-// document.getElementById('calculate-button').addEventListener('click', calculate);
+document.getElementById('calculate-button').addEventListener('click', calculate);
